@@ -16,8 +16,6 @@ Android SDKs are not included in this repo (since they are too large), nor are t
 
 Simulators are not supported.
 
-## TODOS
-- Include support for iOS devices
 
 ## Requirements
 - Python 3.10.0
