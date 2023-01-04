@@ -65,4 +65,3 @@ If the application crashes during a session, close the web page and terminal. Th
 ## License
 All Rights Reserved
 
-Copyright (c) Sukriti Sharma 2022
