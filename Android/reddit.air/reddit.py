@@ -1,6 +1,6 @@
 # -*- encoding=utf8 -*-
 
-__author__ = "munib"
+__author__ = "su"
 
 from airtest.core.api import *
 import os
